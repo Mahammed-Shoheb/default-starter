@@ -158,11 +158,6 @@ ul {
   object-fit: cover;
 }
 
-img:not(.nav-logo) {
-  width: 100%;
-  display: block;
-}
-
 /* buttons  */
 
 .btn {
